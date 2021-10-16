@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="83e1f75f-876a-47bf-b76b-08030f72b615" name="php-debugger">
+        <fileTransfer rootFolder="/var/www/html/projects/php-debugger" accessType="SFTP" host="dthdevops.net" port="22" sshConfigId="5a31f897-4960-4a38-b265-b1dbc1fafa1e" sshConfig="alexander@dthdevops.net:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
