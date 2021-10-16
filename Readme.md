@@ -14,3 +14,7 @@ https://gist.github.com/sunel/5368b7b18a84829b06e4
 
 #Features
 Color coding, sleek look, ability to set the var dump name, for refference.
+
+## Screenshots
+
+![App Screenshot](https://i.ibb.co/82rLPHB/Capture.png)
